@@ -2,7 +2,7 @@
     "name": "typing-test",
     "version": "0.1.0",
     "private": true,
-    "homepage": "https://abhishek781.github.io/test3f3",
+    "homepage": ".",
     "dependencies": {
         "@testing-library/jest-dom": "^5.16.1",
         "@testing-library/react": "^12.1.2",
